@@ -70,5 +70,40 @@ FNP_Problem_Statement - Original Problem Statement
 
 README.md – Project summary and documentation
 
-**Summary**
-This Excel-based project showcases end-to-end data handling – from extraction and cleaning to modeling and visualization. It replicates a real-world business case focused on seasonal gifting behavior, delivery optimization, and product-level revenue analysis. Ideal for showcasing Excel, Power Query, and Power Pivot skills in a retail or e-commerce context.
+
+
+
+**EXECUTIVE SUMMARY**
+
+**Business Performance Overview**
+FNP achieved ₹35.2 million in revenue across 1,000 orders in 2023, serving 100 customers across 301 cities with an impressive ₹3,521 average order value. The business demonstrates strong market presence but faces significant operational and strategic challenges requiring immediate attention.
+
+**Key Performance Metrics**
+•	Total Revenue: ₹35,20,984 (2023)
+•	Average Order Value: ₹3,521 (above industry average)
+•	Customer Lifetime Value: ₹35,210 per customer
+•	Geographic Reach: 301 cities nationwide
+•	Average Delivery Time: 5.53 days
+
+ 
+**Critical Business Challenges**
+1.	Revenue Volatility Crisis - 672% monthly variation between peak (August) and through (January)
+2.	Operational Inefficiencies - 31.9% late deliveries (>7 days) impacting customer satisfaction
+3.	Seasonal Dependency - 29% revenue concentration in monsoon season
+
+**STRATEGIC RECOMMENDATIONS**
+1.	Revenue Stabilization
+•	Set minimum monthly target: ₹3 lakhs
+•	Run promotions in weak months (Jan, Apr, May)
+•	Create year-round marketing campaigns
+2.	Delivery Performance Enhancement
+•	Partner with 2-3 reliable delivery companies
+•	Promise maximum 5-day delivery
+•	Track and improve on-time delivery to 90%+
+3.	Product Focus Strategy
+•	Push Colors, Soft Toys, and Sweets heavily
+•	Target Anniversary and Raksha Bandhan occasions
+•	Create product bundles for higher order values
+
+
+
