@@ -1,4 +1,5 @@
 FNP Sales Analysis Dashboard
+
 1. Overview
 A comprehensive Excel dashboard designed to analyze sales performance for Ferns N Petals (FNP), a leading gifting platform.
 The project explores trends in customer behavior, product demand, and delivery efficiency to support data-driven strategies for revenue growth and customer satisfaction.
