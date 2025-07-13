@@ -1,0 +1,92 @@
+📊 FNP Sales Analysis Dashboard
+📝 Executive Summary
+This project presents a complete sales performance analysis dashboard for Ferns N Petals (FNP), developed using Microsoft Excel. FNP is a major gifting platform in India, specializing in occasion-based product delivery (e.g., Raksha Bandhan, Diwali, Birthdays, and more). The primary objective of this project is to extract meaningful insights from the raw sales data to help the business enhance its sales strategy, understand customer behavior, and optimize operations.
+
+📌 Key Business Questions Answered
+💰 Total Revenue
+What is the overall revenue generated?
+
+🚚 Average Order & Delivery Time
+How long does it take to fulfill an order on average?
+
+📅 Monthly Sales Performance
+How does revenue vary across months in 2023?
+
+🏆 Top Products by Revenue
+Which products are generating the most revenue?
+
+👥 Customer Spending Behavior
+What is the average spend per customer?
+
+📦 Product Sales Analysis
+What is the revenue distribution of the top 5 products?
+
+🌆 Geographic Insights
+Which cities placed the highest number of orders?
+
+📈 Order Volume vs. Delivery Time
+Do bulk orders delay deliveries?
+
+🎉 Occasion-Wise Revenue
+How does revenue differ by occasion?
+
+🔍 Product Popularity by Occasion
+What are the top-selling products for specific occasions?
+
+🔧 Tools & Technologies Used
+Microsoft Excel
+
+Power Query (for ETL: Extract, Transform, Load)
+
+Power Pivot (for data modeling and DAX calculations)
+
+Pivot Charts, Slicers & KPIs (for interactivity)
+
+🧼 Data Preparation Workflow
+Extracted and loaded raw transactional data
+
+Removed blanks, standardized naming conventions
+
+Validated and formatted date columns
+
+Mapped products to relevant categories and occasions
+
+Created derived columns for analysis (e.g., delivery time, revenue per customer)
+
+📊 Dashboard Features
+Interactive slicers for Date, Occasion, and Delivery Filters
+
+Dynamic KPI Cards for Revenue, Orders, Delivery Time & Avg. Spend
+
+Charts & Visuals:
+
+Revenue by Occasion (Bar)
+
+Revenue by Category (Donut)
+
+Monthly Revenue Trends (Line)
+
+Revenue by Hour (Line)
+
+Top Cities by Orders (Bar)
+
+Top 5 Products by Revenue (Bar)
+
+🎨 Design Elements
+Layout resolution: 1920x1080 (HD)
+
+Brand-inspired colors (FNP green and gold)
+
+Clean typography and consistent grid alignment
+
+Indian Rupee (₹) formatting for financial metrics
+
+📁 Repository Contents
+File	Description
+FNP_Dashboard.xlsx	Final Excel dashboard with interactivity
+FNP_Data_Cleaned.xlsx	Cleaned dataset used for analysis
+FNP_Dashboard.png	High-res snapshot of the dashboard
+README.md	Project overview and documentation
+
+✅ Outcome
+This project simulates a real-world e-commerce analytics case and showcases expertise in Excel-based business intelligence, from data wrangling to visual storytelling. It demonstrates practical knowledge of Power Query, Power Pivot, and dashboard design—ideal for portfolios, internships, or roles in data analysis, consulting, and retail strategy.
